@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedNumCalc", "MixedNumCalc\MixedNumCalc.csproj", "{C0E0C458-EF2F-4429-A808-82C4BC66FDB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedNumCalcTest", "MixedNumCalcTest\MixedNumCalcTest.csproj", "{38AB7268-672F-45BC-9506-6F7291DA4C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E0C458-EF2F-4429-A808-82C4BC66FDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E0C458-EF2F-4429-A808-82C4BC66FDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E0C458-EF2F-4429-A808-82C4BC66FDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E0C458-EF2F-4429-A808-82C4BC66FDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AB7268-672F-45BC-9506-6F7291DA4C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AB7268-672F-45BC-9506-6F7291DA4C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AB7268-672F-45BC-9506-6F7291DA4C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AB7268-672F-45BC-9506-6F7291DA4C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF4825F-7FEC-454A-9FDF-4BCEE5449EBB}
+	EndGlobalSection
+EndGlobal
